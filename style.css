@@ -32,3 +32,35 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1,.cat2,.cat3{
+
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+
+    background: #F1A52A;
+    
+
+}
+
+.cat2{
+ 
+    background: #E34385;
+}
+
+.cat3{
+    background: #3B51FC;
+}
+
+.Categories h1{
+
+    color:white;
+
+}
+
+.card{
+
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+}
