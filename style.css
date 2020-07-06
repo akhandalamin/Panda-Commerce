@@ -8,8 +8,6 @@
     background-color:#FCE6E8 ;
     border-radius: 10px;
     
-
-
 }
 
 .carousel-item{
@@ -62,5 +60,28 @@
 .card{
 
     border:none;
+    border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
+}
+
+.card-footer{
+
+    background: white;
+    border-top: none;
+    border-radius: 10px;
+}
+
+#subscribe{
+
+    height: 300px;
+}
+
+#subscribe h6{
+
+    color:gray;
+}
+
+footer{
+
+    text-align: center;
 }
